@@ -5,3 +5,5 @@ Open File in Visual Studio Code
 
 please put the "OpenInVSCode.exe" in the same location to the "Update.exe".  
 (probably to "AppData\Local\Code")
+
+![Imgur](http://i.imgur.com/iHuPGmT.png)
